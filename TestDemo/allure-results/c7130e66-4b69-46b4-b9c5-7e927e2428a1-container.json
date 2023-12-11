@@ -1,0 +1,1 @@
+{"uuid":"c7130e66-4b69-46b4-b9c5-7e927e2428a1","name":"check_ItemTolist","children":["e0850339-961e-4d98-9577-e66d18c6bb90"],"befores":[{"name":"registerUser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702334883259,"stop":1702334887956}],"afters":[],"start":1702334876214,"stop":1702334892027}

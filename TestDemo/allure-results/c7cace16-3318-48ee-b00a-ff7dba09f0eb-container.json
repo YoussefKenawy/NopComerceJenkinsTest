@@ -1,0 +1,1 @@
+{"uuid":"c7cace16-3318-48ee-b00a-ff7dba09f0eb","name":"Check_AddingItemToCardE2E","children":["104a964f-0114-45aa-afdd-b130d118b3a8"],"befores":[{"name":"registerUser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700320407524,"stop":1700320412049}],"afters":[],"start":1700320395813,"stop":1700320416499}
